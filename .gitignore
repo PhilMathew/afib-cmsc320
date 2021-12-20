@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+physionet-afib-data/
+weights.h5
+.vscode/
